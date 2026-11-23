@@ -1,4 +1,4 @@
-What coding packages will be imported here
 
-import numpy
-import matplotlib
+numpy
+matplotlib
+pandas
