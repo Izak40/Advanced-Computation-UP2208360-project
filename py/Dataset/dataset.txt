@@ -1,0 +1,28 @@
+url for dataset: https://www.kaggle.com/datasets/prok2027/will-pigeon-eat-bun?resource=download&select=train_bun.csv
+
+Coloumn description from Kaggle where the dataset is from:
+
+
+id - Unique sample identifier.
+
+bun_size - Size of the bun in arbitrary units.
+
+nearby_pigeons_count - Number of pigeons near the feeding spot.
+
+time_of_day - Encoded time of day (e.g., morning/afternoon/evening).
+
+feeding_spot_popularity - Popularity level of the feeding location.
+
+distance_to_pigeons_m - Distance from the bun to the nearest pigeons (meters).
+
+is_raining - Weather indicator (1 = raining, 0 = not raining).
+
+crumbs_on_ground - Amount of crumbs already present on the ground.
+
+crowd_density - Estimated density of people around the spot.
+
+human_distance_m - Distance from humans to the pigeons (meters).
+
+noise_level - Ambient noise intensity.
+
+will_eat_bun - Target variable (1 = pigeon eats the bun, 0 = does not eat).
