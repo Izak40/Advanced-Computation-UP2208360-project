@@ -1,0 +1,4 @@
+I'm considering using another dataset, one about NEO (Near-Earth Objects).
+This dataset focuses on comets which are icy bodies that orbit the Sun.
+url for dataset: https://www.kaggle.com/datasets/nasa/near-earth-comets/data
+
