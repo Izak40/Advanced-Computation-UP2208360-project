@@ -1,0 +1,16 @@
+Very similar to the comet dataset but this doesn't have epoch in terms of TDB
+url for dataset: 
+
+Dataset contents:
+
+Object - name
+Close-Approach (CA) Date - In terms of Gregorian Calendar
+CA Distance Nominal (LD | au) - average distance of object to Earth
+CA Distance Minimum (LD | au) - minimum distance of object to Earth
+V relative (km/s) - velocity wrt Earth
+V infinity (km/s) - velocity wrt massless Earth
+H (absolute magnitude)
+Diameter (metres)
+
+distances measured from centre of object to centre of Earth
+LD - Lunar distance, AU - Astronomical Units
