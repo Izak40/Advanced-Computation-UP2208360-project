@@ -2,3 +2,20 @@ I'm considering using another dataset, one about NEO (Near-Earth Objects).
 This dataset focuses on comets which are icy bodies that orbit the Sun.
 url for dataset: https://www.kaggle.com/datasets/nasa/near-earth-comets/data
 
+This dataset contains the following fields:
+
+Object: the name of the comet
+Epoch: the epoch for the comet, in TDB
+TP: time of perihelion passage, in TDB; this is the time when the comet was closest to the Sun
+e: the orbital eccentricity of the comet
+i: Inclination of the orbit with respect to the ecliptic plane and the equinox of J2000 (J2000-Ecliptic), in degrees
+w: Argument of perihelion (J2000-Ecliptic), in degrees
+Node: Longitude of the ascending node (J2000-Ecliptic), in degrees
+q: comet's distance at perihelion, in AU
+Q: comet's distance at aphelion, in AU
+P: orbital period, in Julian years
+A1: Non-gravitational force parameter A1
+A2: Non-gravitational force parameter A2
+A3: Non-gravitational force parameter A3
+MOID (AU): Minimum orbit intersection distance (the minimum distance between the osculating orbits of the NEO and the Earth)
+ref: Orbital solution reference
